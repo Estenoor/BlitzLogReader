@@ -1,7 +1,21 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BlitzLogReader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="COLOR_SCHEME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">STANDARD</Value>
+    </Setting>
+    <Setting Name="COLOR_THEME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DARK</Value>
+    </Setting>
+    <Setting Name="PrimaryTextColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Control</Value>
+    </Setting>
+    <Setting Name="PrimaryBackgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">ControlDarkDark</Value>
+    </Setting>
+    <Setting Name="ApplicationName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BlitzReader</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>
