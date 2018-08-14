@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlitzLogReader", "BlitzLogReader\BlitzLogReader.csproj", "{7E22FD8F-9227-4AE6-B5F3-60161FCE0D0C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Blitz_Reader", "WPF_Blitz_Reader\WPF_Blitz_Reader.csproj", "{60092830-59AA-4B1C-8C82-B561E0EBCE5D}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7E22FD8F-9227-4AE6-B5F3-60161FCE0D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E22FD8F-9227-4AE6-B5F3-60161FCE0D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E22FD8F-9227-4AE6-B5F3-60161FCE0D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E22FD8F-9227-4AE6-B5F3-60161FCE0D0C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{60092830-59AA-4B1C-8C82-B561E0EBCE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{60092830-59AA-4B1C-8C82-B561E0EBCE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60092830-59AA-4B1C-8C82-B561E0EBCE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
